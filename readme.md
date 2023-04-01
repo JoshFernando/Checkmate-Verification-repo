@@ -1,4 +1,4 @@
-#Checkmate verifictaion
+#Checkmateverifictaion
 
 
 Description
